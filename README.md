@@ -20,6 +20,8 @@ Here is an explanation of some of the class elements:
 * **lenore** - Any reference to Lenore
 * **nevermore** - Anytime the word nevermore is used.
 
+There are also two ids on lines and stanzas to make it easier to grab particular sections.
+
 
 
 
