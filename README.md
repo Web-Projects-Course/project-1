@@ -14,7 +14,7 @@ Here is an explanation of some of the class elements:
 * **stanza** - one stanza of the poem made up of lines.
 * **line** - one line of the poem.
 * **A, B, C** - The main rhyme scheme of the poem.
-* **rhyme-1, rhyme-2** - The Raven has an internal rhyme.
+* **rhyme-1, rhyme-2, rhyme-3, rhyme-4** - The Raven has an internal rhyme.
 * **narrator-speaks** - When the narrator speaks in the story.
 * **raven-speaks** - When the Raven speaks.
 * **lenore** - Any reference to Lenore
